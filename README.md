@@ -71,15 +71,7 @@ Adjust filenames to match actual notebooks present in the repository.
 
 Contributions are welcome. Please open an issue to discuss changes or submit a pull request with a clear description and tests/examples when appropriate.
 
-## License
 
-Add an appropriate license (e.g., MIT, Apache-2.0) in a `LICENSE` file.
-
-## Contact
-
-Repository maintained by HanishaDuvvuri27. For questions, open an issue or contact the maintainer through their GitHub profile.
-
----
 
 Notes:
 - This README is a template. Modify data sources, scripts, and instructions to reflect actual repository contents and any additional dependencies or setup steps.
